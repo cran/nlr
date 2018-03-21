@@ -1,0 +1,1 @@
+is.inf <- is.infinite

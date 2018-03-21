@@ -1,0 +1,16 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("MASS","ginv")
+importFrom("MASS","cov.mve")
+importFrom("stats", "na.fail")
+importFrom("utils","str")
+importFrom("stats","arima")
+importFrom("stats","acf")
+importFrom("TSA","arimax")
+importFrom("grDevices","dev.new")
+importFrom("graphics", "legend", "lines", "pairs", "par", "points")
+import("methods","nlme", "tseries", "robcor", "stats","GA", "quantreg")
+export("%c%","%3d*m%","%m3d%","plot","hat","residuals","predict"
+       ,"mplot","atypicals","atypicals.deleted","recalc"
+       ,"JacobianLeverage","parInfer","predictionI","acf","dlev"
+       ,"eval","selfStart","getInitial","nl.form","nl.fitt","nl.fitt.gn","nl.fitt.rob",
+       "nl.fitt.rgn","nl.robmeas")
