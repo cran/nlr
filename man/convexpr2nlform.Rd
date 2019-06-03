@@ -43,7 +43,7 @@ Rizo ML 2008 Statistical Computing with R The R Series. Chapman & Hall/CRC The R
 \author{
   Hossein Riazoshams, May 2014. 
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
   If the derivatives does not exist in  \code{\link{nlr}} function eplicitly the derivative option must set to derivative free.

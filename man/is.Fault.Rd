@@ -26,7 +26,7 @@ is.Fault(obj)
 \author{
   Hossein Riazoshams, May 2014. 
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
   The \code{Fault} object can be warning, but not error, in this case you can use \code{\link{is.Warn}} or \code{\link{is.Faultwarn}} to detect warnings.

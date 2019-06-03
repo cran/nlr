@@ -79,7 +79,7 @@ Application using R, Joh Wiley and Sons.
 \author{
   Hossein Riazoshams, Apr 2014. 
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 
 \note{"nlr" package is derivative based, the default value for algorithm for optimization is derivative based methods such as Levenberg-Marquardt, then nlr check use optional user request.

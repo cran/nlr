@@ -51,7 +51,7 @@ Riazoshams, H., Midi, H., Sharipov, O. S.H, (2010). The Performance of Robust Tw
 \author{
   Hossein Riazoshams, Jul 2009.
   Email: \email{riazihosein@gmail.com}
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
   This function currently run with AR process. The classic estimate is don by \code{\link{nl.corrts}} function.

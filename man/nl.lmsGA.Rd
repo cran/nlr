@@ -37,7 +37,7 @@ Application using R, Joh Wiley and Sons.
 \author{
   Hossein Riazoshams, May 2014. 
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
   When that function is not working properly, \code{\link{nl.lmsNM}} function can be used, but requires more precise initial values. These function uses by \code{\link{nlr}} for initial purposes. User can request least median square as initial value from \code{\link{nlr.control}} argument by \code{initials="lms"} method, nlr use \code{\link{nl.lmsGA}} not \code{nl.lmsNM}.

@@ -29,7 +29,7 @@ Becker, R. A., Chambers, J. M. and Wilks, A. R. (1988) The New S Language. Wadsw
 \author{
   Hossein Riazoshams, May 2014. 
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 
 \note{

@@ -98,7 +98,7 @@ Application using R, Joh Wiley and Sons.
 \author{
   Hossein Riazoshams, May 2014. 
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
   All information of a generalized nonlinear robust fited model are saved in \code{nl.fitt.rgn}, thus it can be large variable of informations. It is inheritance of \code{\link{nl.fitt.rob}}, and robust form of \code{\link{nl.fitt.gn}}. It include heterogeneous or autocorrelated fitt. The heteroscedastic fitt result stores in \code{hetro} slot, and autocorelation result stores in \code{correlation,autcor} slot. meanwhile the \code{vm, rm} include contains general of covariance and correlation matrix of both heteroscedastic and autocorrelated informations.

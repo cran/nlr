@@ -48,7 +48,7 @@ Bates, D. M., and Watts, D. G. (1988). Nonlinear regression analysis and its app
 \author{
   Hossein Riazoshams, Jan 2010.
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
   This function is fast algorithm based on gradient. If gradient does not exist one can use \code{\link{nlsnm}} function.

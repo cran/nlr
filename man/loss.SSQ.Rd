@@ -46,7 +46,7 @@ list values:
 \author{
   Hossein Riazoshams, May 2014. 
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
  If required to compute square loss function include can use \code{nl.robfuncs[7]}, see \code{\link{nl.robfuncs}}.

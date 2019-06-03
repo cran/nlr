@@ -34,7 +34,7 @@ Compute QR matrices, and provide explicit matrix form of lower triangular and up
 \author{
   Hossein Riazoshams, Jan 2010.
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
 Used mostly for internal purposes.

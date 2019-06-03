@@ -42,7 +42,7 @@ Stromberg, A. J. (1993). Computation of High Breakdown Nonlinear Regression Para
 \author{
   Hossein Riazoshams, Jan 2010.
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
 It is similar to \code{nlrob} function in \code{robustbase} package, it is not completly operational in \code{nlr}.

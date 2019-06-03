@@ -28,7 +28,7 @@ The predictor is similar to predictor of chicken growth \code{\link{Weights}} da
 \author{
   Hossein Riazoshams, Jan 2010. 
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \examples{
 lotsout

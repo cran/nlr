@@ -44,7 +44,7 @@ nlout(nlfited)
 \author{
   Hossein Riazoshams, Dec 2008
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
   This function return back all resutls and statistics but, Riazoshams (2009) showed studentized residuals and Cook distance when combine with robust estimators can detect outliers correctly. Thus to identify outlier correctly first estimate the parameters bu robust options of \code{\link{nlr}} function then call \code{nlout}, finally look at the list values \code{"studres"} and \code{"cook"} from the result list. 
@@ -58,7 +58,9 @@ nlout(nlfited)
  d<-list(xr=Weights$Date, yr=Weights$Weight)
  wmodel <- nlr(nlrobj1[[2]],data=d,control=nlr.control(method = "OLS",trace=TRUE))
  a=nlout(wmodel)
- plot(a[[3]]) # is in fact wrong inference due to hetroscedasticity
+ ## Run the command as bellow
+ ## nlout(wmodel)
+
 }
 \keyword{ Mahalanobis distance }
 \keyword{ Cook Distance}

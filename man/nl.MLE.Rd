@@ -65,7 +65,7 @@ Riazoshams, H,. 2010. Outlier detection and robust estimation methods for nonlin
 \author{
   Hossein Riazoshams, May 2014. 
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
   The objective function used in \code{\link{nl.robhetroWM}} is general form of Likelihood, thus it can generate Least Square estimate using quadratic function, which can be accessed in nl.robfuncs[["least square"]] variable. It can include parameteric variance function also.

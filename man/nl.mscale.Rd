@@ -33,7 +33,7 @@ This estimate is used in MM-estimate procedure of location parameter \eqn{\theta
 \author{
   Hossein Riazoshams, May 2014. 
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
   Its value is used inside MM-estimate procedure of parameter \eqn{\theta}. Currently work with Hampel \eqn{\rho} function, not all of \eqn{\rho} defined functions.

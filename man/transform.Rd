@@ -34,7 +34,7 @@ A vector to be transformed by R-matrix. It must have gradient and hessian as att
 \author{
   Hossein Riazoshams, May 2014. 
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
 It is used in generalized model. In both heteroscedastic and autocorrelated model will be applied.

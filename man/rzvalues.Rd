@@ -36,7 +36,7 @@ Application using R, Joh Wiley and Sons.
 \author{
     Hossein Riazoshams, Jan 2010.
   Email: \email{riazihosein@gmail.com}
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
   This is robustified form of sample variance function \code{\link{zvalues}}.

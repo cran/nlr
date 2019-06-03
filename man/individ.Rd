@@ -26,7 +26,7 @@ Bates, D.M., and Watts, D. G. (1980). Relative curvature measures of nonlinearit
 \author{
   Hossein Riazoshams, May 2014. 
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}}
+  URL \url{http://www.riazoshams.com/nlr/}}
 \note{
   It is created for internal use in \code{\link{curvature}} function, it ight not be called by user explicitly.
 }

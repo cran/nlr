@@ -38,7 +38,7 @@ nlout.JL(nlfited)
 \author{
   Hossein Riazoshams, Jan 2010.
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
   This function return back all resutls and statistics based on Jacobian leverage, but Riazoshams (2014) showed studentized residuals when combine with robust estimators can detect outliers correctly. Thus to identify outlier correctly first estimate the parameters bu robust options of \code{\link{nlr}} function then call \code{nlout}, finally look at the list values \code{"jl.delstud"} from the result list. 

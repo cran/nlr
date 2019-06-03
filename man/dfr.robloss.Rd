@@ -50,7 +50,7 @@ dfr.robloss(formula, data, start, robfunc, control = nlr.control(), rmat = NULL,
 \author{
   Hossein Riazoshams, May 2014. 
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
 All functions should have \code{gradient} and \code{hessian} in attributes. For derivative free purpose the \code{\link{dfr.robloss}} can be used.

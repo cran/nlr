@@ -67,7 +67,7 @@ Application using R, Joh Wiley and Sons.
 \author{
   Hossein Riazoshams, Jan 2010.
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
   starting values \code{start} it must contains initial value for 'sigma'.

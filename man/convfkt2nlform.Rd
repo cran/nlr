@@ -29,7 +29,7 @@ convfkt2nlform(fktlistex, namesdata = NULL)
 \author{
   Hossein Riazoshams, May 2014. 
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
 Derivatives must not be included in \code{fktlistext} object will be added as attributes to response or independent variables.

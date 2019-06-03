@@ -26,7 +26,7 @@
 \author{
   Hossein Riazoshams, May 2014. 
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
   The \code{Fault} object can be error or warning, \code{\link{is.Faultwarn}} check for error or warning and \code{\link{is.Fault}} check the error.

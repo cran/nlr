@@ -29,7 +29,7 @@ the environment in which expr is to be evaluated. May also be NULL, a list, a da
 \author{
   Hossein Riazoshams, Apr 2014. 
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 
 \note{

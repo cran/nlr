@@ -16,7 +16,7 @@ No methods defined with class "nl.formorNULL" in the signature.
 \author{
   Hossein Riazoshams, Apr 2014. 
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 
 \note{

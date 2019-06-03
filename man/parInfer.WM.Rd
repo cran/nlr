@@ -32,7 +32,7 @@ Lim, C., Sen, P. K., Peddada, S. D. (2010). Statistical inference in nonlinear r
 \author{
     Hossein Riazoshams, May 2014. 
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
   \code{ParInfer} method of \code{\link{nl.fitt.rgn}} call this function automatically, so user might not call it directly.

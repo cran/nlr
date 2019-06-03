@@ -41,7 +41,7 @@ Seber, G., A. F. and Wild, C. J. (2003). Nonlinear Regression. New York: John Wi
 \author{
   Hossein Riazoshams, May 2014. 
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
   For transfering a nonlinear regression model both side should be transformed. In \code{nlr} package generalized nonlinear model use this transformation.

@@ -34,7 +34,7 @@ pInf(object, confidence = 0.95)
 \author{
   Hossein Riazoshams, Jan 2010.
   Email: \email{riazihosein@gmail.com}
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
   This function implemented for calling for non object purpose, for example computing covarianc matrix for Weighted M-estimate stored as \code{\link{nl.fitt.rgn}} but using classic covariance computation using gradinet, instead \code{parInfer} which use convergence properties (Lim et al. 2010)

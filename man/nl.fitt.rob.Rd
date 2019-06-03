@@ -86,7 +86,7 @@ Application using R, Joh Wiley and Sons..
 \author{
   Hossein Riazoshams, May 2014. 
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
   All information of a nonlinear robust fited model are saved in \code{nl.fitt.rob}, thus it can be large variable of informations. The generalized form \code{\link{nl.fitt.rgn}} of a fitt is children of this object. Typically it used to save robust MM-estimation method. But it is extensively used to save other fited objects such as hetroscedastic variance parameter fitts.

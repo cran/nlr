@@ -56,7 +56,7 @@ errors.
 \author{
  Hossein Riazoshams, 08/01/2010.
  Email: \email{riazihosein@gmail.com} 
- URL \url{hriaz.amarefars.com/nlr}
+ URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
   This is used for robust estimates, for classic see \code{\link{loss.chis}}

@@ -47,7 +47,7 @@ No methods defined with class "callorNULL" in the signature.
 \author{
   Hossein Riazoshams, 2013. 
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
 or classes are created in \code{nlr} for compatibility purpose with \code{splus}.

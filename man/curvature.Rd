@@ -31,7 +31,7 @@ curvature(gradient, hessian, sigma)
 \author{
   Hossein Riazoshams, May 2014. 
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
   curvature is a model checking tool. From the OLS estimate output included carvature that can be accessed by \code{curvature} slot of the output object, therefore do not need to be called explicitly by user.

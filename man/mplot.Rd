@@ -36,7 +36,7 @@ Rizo ML 2008 Statistical Computing with R The R Series. Chapman & Hall/CRC The R
 \author{
   Hossein Riazoshams, May 2014. 
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
   A more common situation is when case=1 then common x-axis will be considered for all fited objects. That is the case when sommon data used with different method of fitt and once want to compare different methods.

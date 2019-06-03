@@ -48,7 +48,7 @@ Riazoshams, H., Midi, H., Sharipov, O. S.H, (2010). The Performance of Robust Tw
 \author{
   Hossein Riazoshams, Jul 2009.
   Email: \email{riazihosein@gmail.com}
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
   This function currently run with AR process. The robust estimate is don by \code{\link{nl.robcorrts}} function. This function will be called from \code{nlr} by providing \code{correlation} as correlation structure and \code{derivfree}. It is under developement and for internal use, user might not call it directly, it is more efficient to call from \code{nlr} function with mentioned arguments.

@@ -40,7 +40,7 @@ in which \eqn{\lambda_i} is eigenvalues of matrix A coresponding to eigenvector 
 \author{
   Hossein Riazoshams, Jan 2010. 
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 
 \note{This function mostly used in optimization subroutindes, thus the inverse of negative definit matrix returned as fault. In contrast the \code{\link{indifinv}} function return back the same inverse eventhough the matrix is not positive definit.

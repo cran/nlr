@@ -75,7 +75,7 @@ maxiter = 25 * length(start)), varmodel, tau = getInitial(varmodel, vdata), ...)
 \author{
   Hossein Riazoshams, May 2016, ongoing book. 
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 
 \note{

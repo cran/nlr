@@ -51,7 +51,7 @@ Rizo ML 2008 Statistical Computing with R The R Series. Chapman & Hall/CRC The R
 \author{
   Hossein Riazoshams, May 2014. 
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
   User can define his own optimization function \code{objfnc} for any purpose, but this function designed eficiently for robust estimates. It is applied for minimizing several kind of objective functions such as heteroscedastic, chi-square likelihood, robust loss, but for other general problem usage is not tested. Since Nelder-Mead is derivative free its convergence is slow, so it is suggested to use more maximum number of iteration option in \code{\link{nlr.control}}. \code{\link{optim.NLM}} is more efficient method use derivative values, but when the derivative does not exist nelder-Mead can be used.

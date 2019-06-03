@@ -44,7 +44,7 @@ Class \code{"\link{fittmethodorNULL}"}, directly.
 \author{
   Hossein Riazoshams, May 2014. 
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
   This is for internal use, might not be called directly by user. All the fited objects, \code{\link{nl.fitt}}, \code{\link{nl.fitt.gn}}, \code{\link{nl.fitt.rgn}}, \code{\link{nl.fitt.rob}}, have a method slot of object type \code{fittmethod}. It can be used by \code{\link{recalc}} method to recalculate the fitt.

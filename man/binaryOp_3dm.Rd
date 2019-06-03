@@ -29,7 +29,7 @@ Binary operator, compute multiplication of three dimentional array to a vector, 
 \author{
   Hossein Riazoshams, May 2013. 
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 
 \note{

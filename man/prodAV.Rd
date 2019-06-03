@@ -34,7 +34,7 @@ Application using R, Joh Wiley and Sons.
 \author{
   Hossein Riazoshams, Jan 2010.
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
 Three dimentional array multiple matrix have several possibilities, see refeerence. 

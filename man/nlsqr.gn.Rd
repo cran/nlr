@@ -58,7 +58,7 @@ minlanda = 1/2^10, maxiter = 25 * length(start)), vm, rm = eiginv(t(chol(vm))))
 \author{
   Hossein Riazoshams, Jan 2010.
   Email: \email{riazihosein@gmail.com}
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
   This is a generalized form of \code{\link{nlsqr}} function. It is fast algorithm based on gradient. If gradient does not exist one can use \code{\link{nlsnm}} function.

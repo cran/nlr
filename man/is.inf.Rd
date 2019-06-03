@@ -31,7 +31,7 @@ is.inf is an abbreviation for is.infinite
 \author{
   Hossein Riazoshams, 2013. 
   Email: \email{riazihosein@gmail.com} 
-  URL \url{www.riazoshams.com/nlr}
+  URL \url{http://www.riazoshams.com/nlr/}
 }
 \note{
     In \code{nlr} package this function use in \code{\link{eval}} method of \code{\link{nl.form}} to identify the computed response and predictor is right.
