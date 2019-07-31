@@ -81,7 +81,7 @@ ntpstart=list(p1=.12,p2=6,p3=1,p4=33)
 ntpstarttau=list(tau1=-.66,tau2=2,tau3=.04)
 fittnml <- dfrmest.NLM(formula=nlrobj1[[16]], data = datalist, start=ntpstart,
 robscale = TRUE, robfunc = nl.robfuncs[["huber"]],control=
-nlr.control(tolerance=1e-8,trace=TRUE))
+nlr.control(tolerance=1e-4,trace=TRUE))
 fittnml$parameters
 ## The function is currently defined as
 "dfrmest.NLM"

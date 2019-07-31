@@ -20,7 +20,7 @@
 #* +------------------------------------------------------------------------+ *
 #******************************************************************************
 nlsnm<-function(formula,data,start=getInitial(formula,data),delta=NULL,
-	control=nlr.control(tolerance=1e-8, maxiter=100 * length(start)),vm=NULL,rm=NULL,...)#eiginv(t(chol(vm))),...)
+	control=nlr.control(tolerance=1e-4, maxiter=100 * length(start)),vm=NULL,rm=NULL,...)#eiginv(t(chol(vm))),...)
 {
 
 	tolerance <- control$tolerance

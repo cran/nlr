@@ -7,7 +7,7 @@
 }
 \usage{
   nlsnm(formula, data, start = getInitial(formula, data), delta = NULL, 
-  control = nlr.control(tolerance = 1e-08, 
+  control = nlr.control(tolerance = 1e-04, 
   maxiter = 100 * length(start)), vm = NULL, rm = NULL, ...)
 }
 \arguments{

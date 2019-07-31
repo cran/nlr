@@ -9,7 +9,7 @@
 }
 \usage{
 nlmest.NM(formula, data, start = getInitial(formula, data), robfunc, 
-control = nlr.control(tolerance = 1e-08, 
+control = nlr.control(tolerance = 1e-04, 
 minlanda = 1/2^25, maxiter = 100 * length(start), robscale = T), 
 vm = NULL, rm = eiginv(t(chol(vm))), delta = NULL, ...)
 }

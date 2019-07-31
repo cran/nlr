@@ -1,4 +1,4 @@
-19ffcb89daba0ac68038f2d5f671168b *DESCRIPTION
+fe8ddcff5470679faada2e40a76d62ff *DESCRIPTION
 3d2a8eadec38dc63b66de9952ccb609b *NAMESPACE
 ffb7cdd24c9f0b1385186abbd49a5bae *R/I.R
 9112f05a4662a7eb647adbd630b534e9 *R/atyps.R
@@ -44,14 +44,14 @@ c805af71ef8df70698a69e323899628d *R/nl_robhetroLS.R
 2d9f45eb5381c658ffaaa335ba22eb40 *R/nlmest_NLM.R
 f588672a91bf8db3ebb6584c76c5c477 *R/nlmest_NLM_sCase2.R
 eed2b1f6ea7f75b588c90c217c0548e7 *R/nlmest_NLMf.R
-73e3237be2965dba959aa7678de24ede *R/nlmest_NM.R
+c45f7f6473a5eaedd97a798df150c7be *R/nlmest_NM.R
 f28b377a2c53950c8325c730f5e517ca *R/nlmest_RWT.R
 fe5d9f2870a55c9620b2965a9224e40a *R/nlmest_WF.R
 fd907e5a2ad05c1a33ba4b948bc54e14 *R/nlout.R
 311924dacae4a0930dcf5e396129e5c2 *R/nloutJL.R
-18e83693f91276e27e77413d7c5223f8 *R/nlr.R
+1fb0240f99ee70f390cc37b23262a464 *R/nlr.R
 383331e727adcb95de8c4d080024df34 *R/nlr_control.R
-1ee34a2a72219965155e5a40ee43c457 *R/nlsnm.R
+2f1cb5b81799bbb7fe88f90e73b0fe25 *R/nlsnm.R
 9f2953e6691359a2b3443e6a8fe93533 *R/nlsqr.R
 45edbc70c9248ebc2f9122b85c1c202c *R/nlsqr_gn.R
 562356f7db2a637d8df95808532ac08c *R/nonrepl.R
@@ -65,7 +65,7 @@ ddc7ae400cfd50bd0e330e21db196d36 *R/obj6_fitt_gn.R
 efbd8dbfcd9b44c06edd02be52c827bb *R/obj8_fitt_rgn.R
 babfdec5e1fcba7119e01585aa50fb50 *R/obj9_robmeas.R
 c9d37d4d2a3efcf6b43b19bc4627ae69 *R/optim_NLM.R
-25dd54bdc8d2180a5dbb7915538d6e67 *R/optim_NM.R
+50013792dd906fa5904982f9cd2e1dfb *R/optim_NM.R
 5f5d8dca0336002c0ef9fbdd636af58f *R/optim_WF.R
 e5c9bcf7e3515a0f8f6c894f157f6756 *R/or_classes.R
 345771f3ca2667aefef35ba6f589ad01 *R/pInf.R
@@ -131,7 +131,7 @@ b2db3ba347331d2e4da7769c567da140 *man/I.Rd
 805310aed95c36cc59549192f068c65b *man/Lakes.Rd
 d14946b429628618731f7dd09a991b4c *man/Tumor.Rd
 802d777da0ba9feee12df2f7261e8ed3 *man/Weights.Rd
-80c00e2444fc63e7988144689c490892 *man/atyps.Rd
+a79a7a05a8fb3140db0609d98a33057c *man/atyps.Rd
 367372cdd8315249f860096aee279ee0 *man/binaryOp_3dm.Rd
 112bc41929f24d03ab97d371cceb5869 *man/binaryOp_c.Rd
 c8831bb975ca2d7c238a3d8108c0c5b4 *man/binaryOp_m3d.Rd
@@ -151,7 +151,7 @@ f5d1617ab7910d67a495fceb969be1d0 *man/db.method.Rd
 d3dc5472945187c7d677659d960354ae *man/dfr.robhetro.Rd
 dfd15f3a7cebf1e77f7d5c490d565d44 *man/dfr.robhetroLS.Rd
 a45970fb4a44bfe0631a8ffe7210fc92 *man/dfr.robloss.Rd
-40287eaa2a18a2d4657695a89abc0619 *man/dfrmest.NLM.Rd
+9884fdfff880af7f620ef8ae7a882d83 *man/dfrmest.NLM.Rd
 40af67606dbe669aab90b5e16415f12c *man/eiginv.Rd
 04233d7fd8680a3028ad6165b91b567e *man/evald.Rd
 2f7d11eb7de9cbf71f3ea56b7abb665d *man/fittmethod.Rd
@@ -198,7 +198,7 @@ c20a963aa5d896a180cfb590945da288 *man/nl.robhetroLS.Rd
 007898b74317d9574d7319bf383c4fb3 *man/nl.robmeas.Rd
 a15a3c8c507c19393658c2fcd70543fc *man/nlmest.LM.Rd
 1a177748d452105fcef28b775988824e *man/nlmest.NLM.Rd
-21f7d8729fa0d65d5880ee354ca86eef *man/nlmest.NM.Rd
+9178f70a5c342a1791d365559b48df7f *man/nlmest.NM.Rd
 e700f985d75082024df1f673990dfb5d *man/nlmest.RWT.Rd
 7ee4758013da4fa50589e62fdd000375 *man/nlmest.WF.Rd
 f42945344df6daec15595537b80196e9 *man/nlobj.Rd
@@ -207,13 +207,13 @@ c6891753f72b9095289b970ceec7bf2d *man/nlout.JL.Rd
 1d9e5f6df5ff2093ff1220185d1f2884 *man/nlout.Rd
 b2a20917bb85124aa2bb632d3efe72c5 *man/nlr.Rd
 b28f90f224f303c08650a675663058e4 *man/nlr.control.Rd
-c5e7ca7bfa67ea1fc6df6c5410918bb6 *man/nlsnm.Rd
+d8a6669cbf611dcdfdbf82bc569c6b12 *man/nlsnm.Rd
 ff640345364df82be448cec52445bda1 *man/nlsqr.Rd
 5c0bb5c790502c70096c124fb3e56c94 *man/nlsqr.gn.Rd
 1502ef9dc25a95892e938f3de9765244 *man/nonrepl.Rd
 f0b80f06487f39cb8317687a3dd84791 *man/ntp.Rd
 7bb36106e1225f14b4e7a7de7d8113fc *man/optim.NLM.Rd
-d6e5710525c975db0ca15904fb60fea8 *man/optim.NM.Rd
+4cba4d748ce171e4a8fbf9803f4d7240 *man/optim.NM.Rd
 5859016ff9fcc995b025541be6368617 *man/optim.WF.Rd
 86d83ca2f48d961374d4f70bcb15aa4d *man/pInf.Rd
 10745c64bf4807d990480f9b1912446f *man/parInfer.WM.Rd

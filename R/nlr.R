@@ -385,7 +385,7 @@ nlr <- function(formula, data = parent.frame(), start=getInitial(formula,data),
 #start<-list(p1=2200,p2=38,p3=.1)
 
 #aa1 <- nlr(formula=nlrobj1[[14]],data=b5,start=start,robustobj=nl.robfuncs[["hampel"]],
-#                     tau=list(sg=.09,landa=2),varianceform=nlrobjvarmdls1[[1]],control=nlr.control(tolerance=1e-8,
+#                     tau=list(sg=.09,landa=2),varianceform=nlrobjvarmdls1[[1]],control=nlr.control(tolerance=1e-4,
 #                   maxiter=500,derivfree=F),method="CME")#,delta=c(0.2,1,1,160,.2,1,.03))
 
 

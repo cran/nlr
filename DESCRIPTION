@@ -1,8 +1,8 @@
 Package: nlr
 Type: Package
 Title: Nonlinear Regression Modelling using Robust Methods
-Version: 0.1-2
-Date: 2019-06-03
+Version: 0.1-3
+Date: 2019-07-30
 Author: Hossein Riazoshams
 Maintainer: Hossein Riazoshams <riazihosein@gmail.com>
 Description: Non-Linear Robust package is developed to handle the problem of 
@@ -18,6 +18,6 @@ Imports: MASS,nlme, robcor, TSA,tseries,stats, GA, quantreg
 Depends: R (>= 3.6.0), methods
 URL: http://www.riazoshams.com/nlr/
 NeedsCompilation: no
-Packaged: 2019-06-03 16:02:21 UTC; HRIAZ
+Packaged: 2019-07-30 18:26:33 UTC; HRIAZ
 Repository: CRAN
-Date/Publication: 2019-06-03 18:00:03 UTC
+Date/Publication: 2019-07-31 12:40:02 UTC

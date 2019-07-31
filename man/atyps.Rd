@@ -40,10 +40,11 @@
   \code{\link{nlsqr}}
 }
 \examples{
- d<-list(xr=Weights$Date, yr=Weights$Weight)
- wmodel <- nlr(nlrobj1[[2]],data=d,control=nlr.control(method = "OLS",trace=TRUE))
- a=nlout(wmodel)
-atyps(wmodel)
+#Example
+#d<-list(xr=Weights$Date, yr=Weights$Weight)
+# wmodel <- nlr(nlrobj1[[2]],data=d,control=nlr.control(method = "OLS",trace=TRUE))
+ #a=nlout(wmodel)
+#atyps(wmodel)
 }
 \keyword{QR Decomposition}
 \keyword{Full Rank QR decomposition}

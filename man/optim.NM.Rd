@@ -10,7 +10,7 @@
 }
 \usage{
 optim.NM(objfnc, data, start = getInitial(objfnc, data), delta = NULL,deltar=.1, 
-control=nlr.control(tolerance=1e-8, 
+control=nlr.control(tolerance=1e-4, 
 maxiter=250 * length(start)), ...)
 }
 %- maybe also 'usage' for other objects documented here.

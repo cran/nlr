@@ -21,7 +21,7 @@
 #* +------------------------------------------------------------------------+ *
 #******************************************************************************
 optim.NM<-function(objfnc,data,start=getInitial(objfnc,data),delta=NULL,deltar=.1,
-	control=nlr.control(tolerance=1e-8, maxiter=250 * length(start)),...)
+	control=nlr.control(tolerance=1e-4, maxiter=250 * length(start)),...)
 {
 	tolerance <- control$tolerance
 	maxiter <- control$maxiter
